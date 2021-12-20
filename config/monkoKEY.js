@@ -1,1 +1,1 @@
-module.exports = "mongodb+srv://ayush6669:ak6669@cluster0.zzlri.mongodb.net/shortdb?retryWrites=true&w=majority";
+module.exports = "mongodb+srv://new:user@cluster0.q1r8u.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
